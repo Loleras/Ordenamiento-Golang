@@ -1,6 +1,7 @@
 /*
 	
 	ALUMNO: Ernesto Z. Chura Flores
+        ALUMNO: Cristian Omar Tacora Claros
 	CURSO: Paralelismo y Sistemas Distribuidos
 	OJO: La finalizacion de entrada de datos es con '0' (cero)
 	
